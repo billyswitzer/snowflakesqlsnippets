@@ -216,6 +216,12 @@
 			"ORDER BY "
 		]
 	},
+	"PARTITION BY fragment": {
+		"prefix": "pb",
+		"body": [
+			"PARTITION BY "
+		]
+	},
 	"RIGHT JOIN fragment": {
 		"prefix": "rj",
 		"body": [
